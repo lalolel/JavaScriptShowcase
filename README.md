@@ -111,9 +111,6 @@ Instructions for taking screenshots of your application to replace the placehold
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/javascript-showcase/issues).
 
-## 📜 License
-
-This project is [MIT](LICENSE) licensed.
 
 ## 🙏 Acknowledgements
 
